@@ -79,3 +79,9 @@ RESTful APIs with Node.js and Express
 - The controller will be used to delete a particular user's data from MongoDB database using a user's ID.
 - Update `DELETE` method of this route `/contact/:contactId` and pass the `deleteContact` controller and test it out.
 - Make sure you pass proper ID from the database example - `localhost:3000/contact/5cad9c9b02825c3294a6be42` and make sure the request type is set to `DELETE`
+
+### End notes
+- Finally the CRUD operation on this project are completed
+- Feel free to make your own routes and add controllers and create new Schema according to your needs
+
+## Happy Coding 😊
