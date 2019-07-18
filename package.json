@@ -31,7 +31,7 @@
     "express": "^4.16.4",
     "mongoose": "^5.5.0",
     "nodemon": "^1.18.11",
-    "snyk": "^1.189.0"
+    "snyk": "^1.193.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
