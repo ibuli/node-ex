@@ -4,8 +4,8 @@ RESTful APIs with Node.js and Express
 # Getting Started
 
 ### Install requried softwares
-- Node.js from [here](nodejs.org)
-- MongoDB from [here](mongodb.com)
+- Node.js from [here](http://nodejs.org)
+- MongoDB from [here](http://mongodb.com)
 
 ### Install Express
 - use `npm install express --save`
