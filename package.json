@@ -29,9 +29,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongoose": "^5.12.2",
+    "mongoose": "^6.0.4",
     "nodemon": "^2.0.3",
-    "snyk": "^1.465.0"
+    "snyk": "^1.685.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
